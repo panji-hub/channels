@@ -88,14 +88,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=134
-#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",IDX
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=16
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",TVRI Nasional
 https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
@@ -155,6 +147,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXk6XjEFd6OA50vRxjOo2vmeEiKb6JmlXNg&usqp=CAU" group-title="Indonesia Channels",BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia Channels",IDX Channel
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUDBmOX50ons3I2fZgD6T08hqNz-hebRNWg&usqp=CAU" group-title="Indonesia Channels",dTVi
+https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
