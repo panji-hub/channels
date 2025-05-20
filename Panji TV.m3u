@@ -732,7 +732,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlFJ68ULJnMexDQYkp6YER7DiZpYwKXvcVxQ-H5rRAHjJsMKB9E84m0M&s=10" group-title="Kids",Brat TV
 https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5XADVIKALCXNWDRQ9VRJM04npUoPk91fD25u4dFo15cKJ6j4Z7dl-uQ5&s=10" group-title="Kids",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1791049098_b2328000_slen.m3u8?nimblesessionid= 236667751
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1791049098_b2328000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMKRYY_pc72uaB4A-v6JQHG0kylK59wkBhw&s" group-title="Kids",Mr Bean
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:16:5C&stream=641012&extension=ts
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids",Naruto
