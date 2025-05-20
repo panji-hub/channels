@@ -737,6 +737,8 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w720480368
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:16:5C&stream=641012&extension=ts
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids",Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsKkxoo4MzrzENsjimNYta9B4opsfe_s-EuYjA_H-8iSBTasvHHmTdFBr&s=10" group-title="Kids",Nicktoons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
