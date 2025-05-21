@@ -156,7 +156,7 @@ https://hls.seatoday.com/hls_qhd/seatoday.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-#EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
