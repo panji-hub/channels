@@ -53,7 +53,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index
 https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 #EXTVLCOPT:http-referrer=https://nusantaratv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSBIJwnA26Cj3ZfYDMweT7Me_VWX6ZuC8cmi7rAP9BSo1t9rYMH3Y984&s=10" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -150,7 +150,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxisrodzsryLziykbmz-K7JGqr77Ul3J9CwA&usqp=CAU" group-title="Indonesia Channels",SEA Today
 https://hls.seatoday.com/hls_qhd/seatoday.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYzy3SoSh0H8wiYswKX9npD898OBEg7lEw&s" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -162,7 +162,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
-#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZznMj6OTQQftbYLURVULIbMR1SegmI56LIQ&usqp=CAU" group-title="HBO-Singapore" tvg-url="https://bit.ly/AstroEpg",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -715,7 +715,7 @@ https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5XADVIKALCXNWDRQ9VRJM04npUoPk91fD25u4dFo15cKJ6j4Z7dl-uQ5&s=10" group-title="Kids",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1791049098_b2328000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsKkxoo4MzrzENsjimNYta9B4opsfe_s-EuYjA_H-8iSBTasvHHmTdFBr&s=10" group-title="Kids",Nicktoons
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
