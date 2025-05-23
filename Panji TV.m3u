@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytFPMEV1rEoodzHLAKTrpfods9RAItGcm3w&usqp=CAU" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg",RCTI HD
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
