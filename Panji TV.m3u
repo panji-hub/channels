@@ -139,7 +139,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="nettv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGQGtCpEUIolT56i2T-uQvQjr9yXyadxdWw&usqp=CAU" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml",MDTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VwbOpfTHqOXDTKHeLEfMBOD14fme7_fzM5E_Wx5QVp7BN8Mrzveu8yo&s=10" group-title="Indonesia Channels",Berita Satu TV
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXk6XjEFd6OA50vRxjOo2vmeEiKb6JmlXNg&usqp=CAU" group-title="Indonesia Channels",BTV
