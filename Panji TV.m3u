@@ -140,8 +140,10 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXk6XjEFd6OA50vRxjOo2vmeEiKb6JmlXNg&usqp=CAU" group-title="Indonesia Channels",BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia Channels",IDX Channel
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+##https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUDBmOX50ons3I2fZgD6T08hqNz-hebRNWg&usqp=CAU" group-title="Indonesia Channels",dTVi
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxisrodzsryLziykbmz-K7JGqr77Ul3J9CwA&usqp=CAU" group-title="Indonesia Channels",SEA Today
